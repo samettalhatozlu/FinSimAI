@@ -11,7 +11,7 @@ Dinamik, dosya biçimine duyarlı finansal zaman serisi simülasyon uygulaması.
 - 📄 **PDF Raporu**: Türkçe karakter uyumlu, histogram ve yüzde bant grafikleri içeren detaylı rapor
 - 💬 **FinSim AI Chatbot**: Analiz sonuçlarına dayalı soru-cevap chatbot
 
-## 🚀 Kurulum
+## Kurulum
 
 ### Gereksinimler
 
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 - `reportlab` - PDF rapor oluşturma
 - `langchain-ollama` - AI özet desteği (opsiyonel)
 
-## 📖 Kullanım
+## Kullanım
 
 ### Uygulamayı Başlatma
 
@@ -68,7 +68,7 @@ Tarayıcınızda otomatik olarak açılacak arayüzde şu adımları izleyin:
 6. **PDF Raporu**: Detaylı PDF raporunu oluşturup indirin
 7. **Chatbot**: FinSim AI Chatbot ile analiz sonuçları hakkında sorular sorun
 
-## 🔧 Yapılandırma
+## Yapılandırma
 
 ### Türkçe PDF Desteği
 
@@ -94,25 +94,25 @@ ollama pull qwen2.5:7b-instruct
 
 Ollama kurulu değilse uygulama deterministik özet ve kural tabanlı chatbot yanıtları kullanacaktır.
 
-## 📊 Görselleştirmeler
+## Görselleştirmeler
 
 - **Dağılım Grafiği (Histogram)**: Senaryoların bitiş fiyatı dağılımını gösterir
 - **Fiyat Yolu Bant Grafiği**: Medyan, %25/%75 ve %5/%95 bantlarını gösteren okunabilir grafik
 
-## 🏗️ Mimari
+## Mimari
 
 - `app.py`: Streamlit arayüzü, durum yönetimi, grafikler, PDF çıktısı
 - `src/data_inspector.py`: Başlık satırı keşfi, tarih/fiyat sütun önerileri
 - `src/simulation_engine.py`: Getiri hesabı, Monte Carlo simülasyonu, sonuç analizleri
 - `src/analysis_pipeline.py`: Veri inceleme ve simülasyon başlatma fonksiyonları
 
-## 📝 Notlar
+## Notlar
 
 - Uygulama "agentsiz" çalışır. LLM zorunlu değildir.
 - "AI Yorumunu Oluştur" özelliği Ollama varsa LLM kullanır, yoksa deterministik özet üretir.
 - Chatbot da aynı stratejiyi izler: LLM varsa kullanır, yoksa metrik tabanlı yanıtlar verir.
 
-## 🐛 Sorun Giderme
+## Sorun Giderme
 
 ### PDF'de Türkçe karakterler bozuksa
 `fonts/DejaVuSans.ttf` dosyasını proje kök dizinine ekleyin ve tekrar deneyin.
@@ -126,26 +126,16 @@ Seçili fiyat sütununda sayısal veri olduğundan emin olun.
 ### Ollama bağlantı hatası
 Ollama servisinin çalıştığından emin olun veya AI özelliklerini kullanmadan devam edin.
 
-## 📄 Lisans
+## Lisans
 
 Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 
-## 👤 Yazar
+## Yazar
 
 **Samet Talha Tozlu**
 
 - GitHub: [@samettalhatozlu](https://github.com/samettalhatozlu)
 - LinkedIn: [samettalhatozlu](https://www.linkedin.com/in/samettalhatozlu)
-
-## 🤝 Katkıda Bulunma
-
-Katkılarınızı bekliyoruz! Lütfen önce bir issue açarak ne yapmak istediğinizi belirtin.
-
-1. Fork yapın
-2. Feature branch oluşturun (`git checkout -b feature/AmazingFeature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
-4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
-5. Pull Request oluşturun
 
 ## 🙏 Teşekkürler
 
