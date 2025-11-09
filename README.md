@@ -12,7 +12,6 @@ Dinamik, dosya biçimine duyarlı finansal zaman serisi simülasyon uygulaması.
 - 💬 **FinSim AI Chatbot**: Analiz sonuçlarına dayalı soru-cevap chatbot
 
 ## Ekranlar
-<img width="1552" height="872" alt="Ekran Resmi 2025-11-09 15 21 33" src="https://github.com/user-attachments/assets/3ef4b5c6-b166-48a1-8349-c61580a0372a" />
 <img width="1552" height="872" alt="Ekran Resmi 2025-11-09 15 21 54" src="https://github.com/user-attachments/assets/99ce9481-4d17-4e0f-b9e1-5a93fe041b18" />
 <img width="1552" height="872" alt="Ekran Resmi 2025-11-09 15 22 31" src="https://github.com/user-attachments/assets/a5f44634-abf6-4aae-9b8b-f33126f3fa69" />
 <img width="1552" height="872" alt="Ekran Resmi 2025-11-09 15 22 38" src="https://github.com/user-attachments/assets/f0011b5b-2003-4772-ba34-3c526a666412" />
