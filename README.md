@@ -137,7 +137,7 @@ Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 - GitHub: [@samettalhatozlu](https://github.com/samettalhatozlu)
 - LinkedIn: [samettalhatozlu](https://www.linkedin.com/in/samettalhatozlu)
 
-## 🙏 Teşekkürler
+## Dipnot
 
 - [Streamlit](https://streamlit.io/) - Web arayüzü framework'ü
 - [Pandas](https://pandas.pydata.org/) - Veri analizi kütüphanesi
