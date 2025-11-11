@@ -2,14 +2,14 @@
 
 Dinamik, dosya biçimine duyarlı finansal zaman serisi simülasyon uygulaması. Tarihi fiyat verilerini kullanarak Monte Carlo simülasyonu gerçekleştirir, risk metriklerini hesaplar ve AI destekli analiz raporları oluşturur.
 
-## ✨ Özellikler
+## ► Özellikler
 
-- 🔍 **Akıllı Başlık Tespiti**: Karmaşık CSV/Excel yapıları için dayanıklı başlık satırı keşfi
-- 📊 **Monte Carlo Simülasyonu**: Pandas/NumPy ile yüksek performanslı fiyat yolu simülasyonu
-- 📈 **Risk Analizi**: Kazanma olasılığı, VaR (Value at Risk), CVaR (Conditional Value at Risk) ve güven aralığı hesaplamaları
-- 🤖 **AI Destekli Özet**: Ollama LLM ile Türkçe finansal özet (opsiyonel, fallback mekanizması mevcut)
-- 📄 **PDF Raporu**: Türkçe karakter uyumlu, histogram ve yüzde bant grafikleri içeren detaylı rapor
-- 💬 **FinSim AI Chatbot**: Analiz sonuçlarına dayalı soru-cevap chatbot
+- ► **Akıllı Başlık Tespiti**: Karmaşık CSV/Excel yapıları için dayanıklı başlık satırı keşfi
+- ► **Monte Carlo Simülasyonu**: Pandas/NumPy ile yüksek performanslı fiyat yolu simülasyonu
+- ► **Risk Analizi**: Kazanma olasılığı, VaR (Value at Risk), CVaR (Conditional Value at Risk) ve güven aralığı hesaplamaları
+- ► **AI Destekli Özet**: Ollama LLM ile Türkçe finansal özet (opsiyonel, fallback mekanizması mevcut)
+- ► **PDF Raporu**: Türkçe karakter uyumlu, histogram ve yüzde bant grafikleri içeren detaylı rapor
+- ► **FinSim AI Chatbot**: Analiz sonuçlarına dayalı soru-cevap chatbot
 
 ## Ekranlar
 <img width="1552" height="872" alt="Ekran Resmi 2025-11-09 15 21 54" src="https://github.com/user-attachments/assets/99ce9481-4d17-4e0f-b9e1-5a93fe041b18" />
