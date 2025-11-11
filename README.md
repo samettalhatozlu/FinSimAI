@@ -4,17 +4,17 @@ Dinamik, dosya biçimine duyarlı finansal zaman serisi simülasyon uygulaması.
 
 ## ► Özellikler
 
-Akıllı Başlık Tespiti: Karmaşık CSV/Excel yapılarında dayanıklı ve otomatik başlık satırı keşfi.
+►Akıllı Başlık Tespiti: Karmaşık CSV/Excel yapılarında dayanıklı ve otomatik başlık satırı keşfi.
 
-Yüksek Performanslı Monte Carlo Simülasyonu: Pandas ve NumPy ile hızlı ve hassas fiyat yolu simülasyonu.
+►Yüksek Performanslı Monte Carlo Simülasyonu: Pandas ve NumPy ile hızlı ve hassas fiyat yolu simülasyonu.
 
-Kapsamlı Risk Analizi: Kazanma olasılığı, VaR (Risk Altındaki Değer), CVaR (Koşullu Risk Altındaki Değer) ve güven aralığı dahil detaylı hesaplamalar.
+►Kapsamlı Risk Analizi: Kazanma olasılığı, VaR (Risk Altındaki Değer), CVaR (Koşullu Risk Altındaki Değer) ve güven aralığı dahil detaylı hesaplamalar.
 
-AI Destekli Finansal Özet (Türkçe): Ollama LLM kullanarak Türkçe özet çıkarma (opsiyonel; yerleşik güvenilir geri dönüş mekanizması ile).
+►AI Destekli Finansal Özet (Türkçe): Ollama LLM kullanarak Türkçe özet çıkarma (opsiyonel; yerleşik güvenilir geri dönüş mekanizması ile).
 
-Detaylı PDF Raporlama: Türkçe karakter uyumlu raporlar. İçerisinde histogram ve yüzde bant grafikleri bulunur.
+►Detaylı PDF Raporlama: Türkçe karakter uyumlu raporlar. İçerisinde histogram ve yüzde bant grafikleri bulunur.
 
-FinSim AI Chatbot Entegrasyonu: Analiz sonuçlarına dayalı interaktif soru-cevap ve sohbet yeteneği.
+►FinSim AI Chatbot Entegrasyonu: Analiz sonuçlarına dayalı interaktif soru-cevap ve sohbet yeteneği.
 
 ## Ekranlar
 <img width="1552" height="872" alt="Ekran Resmi 2025-11-09 15 21 54" src="https://github.com/user-attachments/assets/99ce9481-4d17-4e0f-b9e1-5a93fe041b18" />
