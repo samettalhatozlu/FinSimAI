@@ -4,8 +4,8 @@ Dinamik, dosya biçimine duyarlı finansal zaman serisi simülasyon uygulaması.
 
 ## ► Özellikler
 
-► **Akıllı Başlık Tespiti**: Karmaşık CSV/Excel yapıları için dayanıklı başlık satırı keşfi
-► **Monte Carlo Simülasyonu**: Pandas/NumPy ile yüksek performanslı fiyat yolu simülasyonu
+-► **Akıllı Başlık Tespiti**: Karmaşık CSV/Excel yapıları için dayanıklı başlık satırı keşfi
+-► **Monte Carlo Simülasyonu**: Pandas/NumPy ile yüksek performanslı fiyat yolu simülasyonu
 ► **Risk Analizi**: Kazanma olasılığı, VaR (Value at Risk), CVaR (Conditional Value at Risk) ve güven aralığı hesaplamaları
 ► **AI Destekli Özet**: Ollama LLM ile Türkçe finansal özet (opsiyonel, fallback mekanizması mevcut)
 ► **PDF Raporu**: Türkçe karakter uyumlu, histogram ve yüzde bant grafikleri içeren detaylı rapor
